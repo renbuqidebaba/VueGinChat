@@ -1,0 +1,2 @@
+mysql:
+  dsn: chatroom:root123@tcp(www.lmworz.top)/chatroom?charset=utf8mb4&parseTime=True&loc=Local
